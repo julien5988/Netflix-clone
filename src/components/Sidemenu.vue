@@ -9,7 +9,7 @@ import { mdiPlus } from '@mdi/js';
 </script>
 
 <template>
-    <div id="SideNav" class="fixed w-[140px]  h-[100vh] flex flex-col  p-12  border-r border-r-[#32323D]  ">
+    <div id="SideNav" class="fixed w-[140px]  h-[100vh] flex flex-col  p-12    ">
             <SvgIcon type="mdi" :path="mdiMagnify" class="w-8 h-8  text-white mt-8 mb-14 " />
             <SvgIcon type="mdi" :path="mdiHome" class="w-8 h-8 text-white mb-14 " />
             <SvgIcon type="mdi" :path="mdiCalendarMonth" class="w-8 h-8 text-white  mb-14 " />
