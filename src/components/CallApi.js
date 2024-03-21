@@ -2,7 +2,7 @@ const options = {
     method: 'GET',
     headers: {
       accept: 'application/json',
-      Authorization: ''
+      Authorization: '' // ajouter la key API 
     }
   };
   
