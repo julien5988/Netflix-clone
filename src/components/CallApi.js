@@ -2,7 +2,7 @@ const options = {
     method: 'GET',
     headers: {
       accept: 'application/json',
-      Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5YTk5ODgyYzQyNmYwZTkyYWI4NzMzYzI1MGY1NTNlOSIsInN1YiI6IjY1ZjQ0NzI4NWI5NTA4MDE2MjFiNDZkMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.xIuPmdr2s1gKKnWWgLaafXmtjnUFXRU1mBgnTKUwUH4'
+      Authorization: ''
     }
   };
   
